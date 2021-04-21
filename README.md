@@ -1,4 +1,3 @@
-# rpi_posenet
 Tensorflow lite PoseNet Tutorial
 ========
 ## ==安裝程序==
